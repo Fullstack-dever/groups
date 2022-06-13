@@ -25,9 +25,9 @@ function Page6(props) {
                 </div>
                 <div className='row m-0 px-3'>
                     <a className='link-btn mb-3' href='join-request'>View Join Requests ( 5 new )</a>
-                    <a className='link-btn mb-3' href=''>Settings Review</a>
+                    <a className='link-btn mb-3' href='#'>Settings Review</a>
                     <a className='link-btn mb-3' href='manage-group-member'>Manage Group Members</a>
-                    <a className='link-btn mb-3' href=''>View Group</a>
+                    <a className='link-btn mb-3' href='#'>View Group</a>
                 </div>
             </div>
         </div>    
